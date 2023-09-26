@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import "./Portfolio.css";
-import data from "/Users/user/Desktop/portfolio/src/assets/portfolioData.js"; // Update the import path
+import data from "../../assets/portfolioData";
+// Update the import path
 import Modal from "./Modal";
 
 const Portfolio = () => {
