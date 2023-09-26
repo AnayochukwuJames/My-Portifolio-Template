@@ -1,0 +1,36 @@
+.stack-icon {
+  width: 32px;
+  /* filter: grayscale(100%); */
+}
+
+.stacks-wrapper {
+  display: flex;
+  width: 85%;
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+}
+
+@media (min-width: 556px) {
+  .stack-icon {
+    width: 49px;
+  }
+}
+
+@media (min-width: 668px) {
+  .stack-icon {
+    width: 57px;
+  }
+}
+
+@media (min-width: 768px) {
+  .stack-icon {
+    width: 82px;
+  }
+}
+
+@media (min-width: 1142px) {
+  .stack-icon {
+    width: 92px;
+  }
+}
