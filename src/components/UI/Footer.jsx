@@ -47,8 +47,10 @@ const Footer = () => {
         </div> */}
         <ul className="nav-list">
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nostrum,
-            facere. Sed obcaecati dolorem nemo perspiciatis deserunt,
+            My proficiency in Core Java and JavaScript, coupled with extensive
+            experience in React, allows me to create dynamic and efficient web
+            applications. let's meet today to discus ideas and strategies that
+            brings amazing products to life
           </p>
           <ul className="menu_list-items">
             <li>
@@ -70,19 +72,13 @@ const Footer = () => {
           </ul>
         </ul>
         <div className="form-wrap">
-          <p>Let's make beautiful products!</p>
+          <p>Have you got ideas to make into beautiful products?</p>
           <a href="#contact">
             <button className="my-button">
               Let's Work
               <i class="fa-solid fa-handshake"></i>
             </button>
           </a>
-          <div className="footer-bottom">
-            <p>
-              &copy; {new Date().getFullYear()} Ibrahim Openiyi. All Rights
-              Reserved.
-            </p>
-          </div>
         </div>
       </div>
     </footer>

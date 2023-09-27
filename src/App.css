@@ -29,6 +29,14 @@ a {
   z-index: 99;
 }
 
+.fa-brands {
+  transition: all 0.3s ease-in;
+}
+
+.fa-brands:hover {
+  color: #1d7e05;
+}
+
 @media only screen and (max-width: 768px) {
   .menu {
     width: 100%;
@@ -45,7 +53,7 @@ a {
     width: 15rem;
     height: 100vh;
     position: absolute;
-    top: 0;
+    top: -10px;
     display: flex;
     right: 0;
     z-index: 200;

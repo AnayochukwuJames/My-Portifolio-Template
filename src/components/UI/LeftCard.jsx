@@ -15,9 +15,11 @@ const LeftCard = () => {
                 Frontend Development
               </h3>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam
-                tempore similique nulla quod illo iure sunt dicta itaque vitae
-                saepe.
+                As a React developer, I possess a strong foundation in front-end
+                web development, with expertise in crafting interactive and
+                responsive user interfaces. I am well-versed in state
+                management, component-driven architecture, and the latest best
+                practices in the React ecosystem
               </p>
             </div>
           </div>

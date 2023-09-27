@@ -31,8 +31,7 @@ const Hero = () => {
           >
             <h5>Hello Welcome</h5>
             <h1 className="name" data-aos="fade-up" data-aos-duration="1000">
-              I'm Ibrahim Openiyi <br />
-              {typeEffect}
+              I'm Ibrahim Openiyi <br />a {typeEffect}
             </h1>
             <div
               data-aos="fade-up"
@@ -79,7 +78,7 @@ const Hero = () => {
           >
             <span>Follow Me:</span>
             <span className="social-icon">
-              <a href="#">
+              <a href="https://github.com/DonaldKnut">
                 <i class="fa-brands fa-github"></i>
               </a>
             </span>
@@ -89,12 +88,12 @@ const Hero = () => {
               </a>
             </span>
             <span className="social-icon">
-              <a href="#">
+              <a href="https://twitter.com/Donaldknuth007">
                 <i class="fa-brands fa-square-x-twitter"></i>
               </a>
             </span>
             <span className="social-icon">
-              <a href="#">
+              <a href="https://medium.com/@openiyiibrahim">
                 <i class="fa-brands fa-medium"></i>
               </a>
             </span>
