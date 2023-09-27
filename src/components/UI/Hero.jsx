@@ -4,7 +4,7 @@ import "./Hero.css";
 import data from "../../assets/images";
 import CountUp from "react-countup";
 import { Typewriter, Cursor, useTypewriter } from "react-simple-typewriter";
-// import images from "/Users/user/Desktop/ibrah-portfolio/portfolio/src/assets/images.js";
+import images from "./assets/images";
 
 const Hero = () => {
   const [typeEffect] = useTypewriter({
