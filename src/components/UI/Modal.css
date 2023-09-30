@@ -14,7 +14,8 @@
 }
 
 .modal-content {
-  background-color: #202020;
+  background-color: #322433;
+  color: white;
   padding: 11px 47px;
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
@@ -45,7 +46,7 @@
 }
 
 .close-icon {
-  background: #39a80f;
+  background: #b802c5;
   width: 50px;
   position: absolute;
   padding: 10px 0px;
@@ -107,7 +108,7 @@ h4 {
   font-size: 18px;
   padding: 12px 24px;
   margin-top: 16px;
-  background: #39a80f;
+  background: #7f158a;
   color: white;
   border-radius: 5px;
   cursor: pointer;

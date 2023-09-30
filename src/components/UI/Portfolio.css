@@ -20,11 +20,11 @@
   background: #848484;
   color: white;
   border-radius: 23px;
+  transition: all 0.5s ease;
 }
 
 .btn:hover {
-  background-color: #367003;
-  border-color: #367003;
+  background-color: #322433;
 }
 
 .small-btn {

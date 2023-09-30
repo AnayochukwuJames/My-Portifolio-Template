@@ -17,8 +17,12 @@
 }
 
 .postfolio-btn:hover {
-  color: rgb(66, 146, 0);
+  color: #000000;
   text-decoration: underline;
+}
+
+.postfolio-btn{
+  color: #7f158a;
 }
 
 .right-content {
@@ -34,6 +38,7 @@
   margin: 33px 0;
   background: #848484;
   color: white;
+  transition: all 0.6s ease;
   border-radius: 23px;
 }
 
@@ -42,10 +47,9 @@
 }
 
 .my-button:hover {
-  background-color: #367003;
-  border-color: #367003;
+  background-color: #7f158a;
   cursor: pointer;
-  color: #000;
+  color: #e8e8e8;
 }
 
 .follow-handle {
@@ -60,7 +64,7 @@
 }
 
 .anchor {
-  color: rgb(66, 146, 0);
+  color: #7f158a;
 }
 
 .fa-handshake {
@@ -80,13 +84,14 @@
 .social-icon {
   font-size: 30px;
   display: flex;
+  color:  #430c49;
   align-items: center;
   gap: 9px;
   transition: all 0.5s ease-in;
 }
 
 .social-icon:hover {
-  color: #357fc2;
+  color: #a36ca9;
 }
 
 /* .hero-subtitle {
@@ -115,7 +120,7 @@
 
 @media (min-width: 908px) {
   .hero-image {
-    width: 325px;
+    width: 403px;
   }
 
   .hero-subtitle {

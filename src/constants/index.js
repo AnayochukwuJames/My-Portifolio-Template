@@ -20,13 +20,13 @@ import {
 export const AppText = {
   hello: "Hello,",
   Iam: "I am ",
-  RahulSanap: "Ibrahim Openiyi",
+  RahulSanap: "Oluwatomiwo Oladele",
   aboutMeDescripion:
-    "An astute software engineer, worked in the IT industry from last 3 Years as developer. Expert in UI/UX design, Front-end and Back-end Development",
+    "A prolific software engineer, worked in the IT industry from last 3 Years as developer. Expert in UI/UX design, Front-end and Back-end Development",
   Skills: "Skills & ",
   Experties: "Experties",
   BackendDeveloper: "Backend Dev",
-  UIUXDesigner: "UI/UX Designer",
+  //UIUXDesigner: "UI/UX Designer",
   FrontedDeveloper: "Frontend Dev",
   Portfolio: "Portfolio",
   Creative: "My Creative ",
@@ -34,7 +34,7 @@ export const AppText = {
   WorkedFor: "Worked For",
   Contact: "Contact ",
   Us: "Us",
-  copywriteText: "Copyright by Ibrahim Openiyi @2023",
+  copywriteText: "Copyright by Oluwatomiwo Oladele @2023",
 };
 
 export const aboutSection = [
@@ -176,7 +176,7 @@ export const socialNetwork = [
   {
     id: 1,
     logo: instagram,
-    url: "https://www.instagram.com/tubeguruji/",
+    url: "https://www.instagram.com/triillzzz/",
   },
   {
     id: 1,
@@ -186,7 +186,7 @@ export const socialNetwork = [
   {
     id: 1,
     logo: linkdin,
-    url: "https://www.linkedin.com/in/rahul-sanap-652920108/",
+    url: "https://www.linkedin.com/oluwatomiwo/",
   },
   {
     id: 1,

@@ -31,7 +31,7 @@ const Hero = () => {
           >
             <h5>Hello Welcome</h5>
             <h1 className="name" data-aos="fade-up" data-aos-duration="1000">
-              I'm Ibrahim Openiyi <br />a {typeEffect}
+              I'm Daniel Oluwatomiwo <br />a {typeEffect}
             </h1>
             <div
               data-aos="fade-up"
@@ -77,23 +77,23 @@ const Hero = () => {
             data-aos-delay="200"
           >
             <span>Follow Me:</span>
-            <span className="social-icon">
-              <a href="https://github.com/DonaldKnut">
+            <span >
+              <a href="https://github.com/Oluwatomiwo" className="social-icon">
                 <i class="fa-brands fa-github"></i>
               </a>
             </span>
             <span className="social-icon">
-              <a href="#">
+              <a href="#" className="social-icon">
                 <i class="fa-brands fa-instagram"></i>
               </a>
             </span>
             <span className="social-icon">
-              <a href="https://twitter.com/Donaldknuth007">
+              <a href="#" className="social-icon">
                 <i class="fa-brands fa-square-x-twitter"></i>
               </a>
             </span>
             <span className="social-icon">
-              <a href="https://medium.com/@openiyiibrahim">
+              <a href="#" className="social-icon">
                 <i class="fa-brands fa-medium"></i>
               </a>
             </span>
@@ -109,7 +109,7 @@ const Hero = () => {
         <div className="right-content">
           <div className="content-right">
             <h2>
-              <CountUp start={0} end={3} duration={2} suffix="+" />
+              <CountUp start={0} end={1} duration={2} suffix="+" />
             </h2>
             <h4>years of experience</h4>
           </div>
@@ -121,7 +121,7 @@ const Hero = () => {
           </div>
           <div className="content-right">
             <h2>
-              <CountUp start={0} end={99} duration={2} suffix="+" />
+              <CountUp start={0} end={30} duration={2} suffix="+" />
             </h2>
             <h4>happy clients</h4>
           </div>

@@ -42,7 +42,7 @@ const Navbar = () => {
     <div ref={headerRef}>
       <div className="header">
         <div className="nav_logo">
-          <img src={images.ibrahimOpeniyiIcon} alt="" className="logo" />
+          <img src={images.apostleIcon_} alt="" className="logo" />
         </div>
         {/* { menu right} */}
         <div className="menu" onClick={toggleMenu} ref={menuRef}>

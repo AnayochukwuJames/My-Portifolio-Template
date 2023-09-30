@@ -20,6 +20,7 @@ const Modal = ({ activeID, setShowModal }) => {
             {portfolio.technologies.map((tech, index) => (
               <p key={index} className="tech-label">
                 {tech === "React" && <i className="fa-brands fa-react"></i>}
+                {tech === "React" && <i className="fa-brands fa-react"></i>}
                 {tech === "CSS3" && <i className="fa-brands fa-css3-alt"></i>}
                 {tech === "Node" && <i className="fa-brands fa-node"></i>}
                 {tech === "Database" && (

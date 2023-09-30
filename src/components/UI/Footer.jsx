@@ -8,7 +8,7 @@ const Footer = () => {
       <div className="footer-wrapper">
         <div className="footer-content">
           <div className="nav_logo">
-            <img src={images.ibrahimOpeniyiIcon} alt="" className="logo" />
+            <img src={images.apostleIcon} alt="" className="logo" />
           </div>
           <div
             className="follow-handle"

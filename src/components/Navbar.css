@@ -35,12 +35,17 @@
 
 /* Style the menu list */
 .menu_list-items {
+  /* background-color: #833a8b; */
   list-style: none;
   display: flex;
 }
 
 .nav_logo {
   cursor: pointer;
+}
+
+.fa-solid{
+  color: #dec5e0;
 }
 
 .menu_list-items li {
@@ -54,7 +59,7 @@
 
 .menu_list-items li a {
   text-decoration: none;
-  color: #fff;
+  color: #767676;
   font-weight: 600;
 }
 
@@ -63,7 +68,7 @@
 }
 
 .custom-button {
-  background-color: #1e4f039d;
+  background-color: #833a8b;
   color: #fff;
   border: none;
   padding: 10px 20px;
@@ -75,10 +80,11 @@
 }
 
 .custom-button:hover {
-  background-color: #2f8004;
+  background-color: #551344;
 }
 
 .hamburger-menu {
+  color: #7f158a;
   font-size: 24px;
   cursor: pointer;
 }

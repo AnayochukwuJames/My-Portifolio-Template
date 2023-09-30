@@ -34,14 +34,14 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #2652026e;
+  background-color: #39073fa7;
   padding-left: 1rem;
   padding-right: 1rem;
   border-radius: 12px;
 }
 
 .form-container button[type="submit"] {
-  background-color: #438905;
+  background-color: #7f158a;
 }
 
 form {
@@ -67,7 +67,7 @@ input[type="text"] {
 }
 
 button[type="submit"] {
-  background-color: #429200ca;
+  background-color: #7f158a;
   color: #fff;
   padding: 10px 20px;
   border: none;
@@ -94,7 +94,7 @@ input[type="text"] {
   border: 1px solid #d1d5db;
   border-radius: 0.375rem;
   color: #ffffff;
-  background-color: #434343;
+  background-color: #7f158a;
   outline: none;
   transition: border-color 0.3s;
 }
@@ -111,7 +111,7 @@ textarea {
   border-radius: 0.375rem;
   outline: none;
   color: #ffffff;
-  background-color: #294610e3;
+  background-color: #430c49;
   padding-right: 5px;
   transition: border-color 0.3s;
   resize: vertical; /* Allow vertical resizing */
