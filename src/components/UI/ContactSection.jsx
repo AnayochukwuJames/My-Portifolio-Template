@@ -17,11 +17,15 @@ const ContactSection = () => {
       <div className="ContactDetailsSection">
         <h2>Contact Details</h2>
         <p>
-          Address: 123 Main Street, Cityville
+          Plus 30 Orchid Road,
+          Opposite Orchid Hotel,
+          Lekki peninsula II 106104
+          Lagos State, Nigeria.
+
           <br />
-          Email: contact@example.com
+          Email: anayochukwujames11@gmail.com
           <br />
-          Phone: +1 (123) 456-7890
+          Phone: +12347066929216
         </p>
       </div>
     </div>

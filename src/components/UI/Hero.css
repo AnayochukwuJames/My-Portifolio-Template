@@ -21,7 +21,7 @@
   text-decoration: underline;
 }
 
-.postfolio-btn{
+.postfolio-btn {
   color: #7f158a;
 }
 
@@ -77,6 +77,12 @@
   justify-content: center;
 }
 
+.hero-image {
+
+  margin: 4px 48px;
+  border-radius: 800px;
+}
+
 .container {
   display: block;
 }
@@ -84,7 +90,7 @@
 .social-icon {
   font-size: 30px;
   display: flex;
-  color:  #430c49;
+  color: #430c49;
   align-items: center;
   gap: 9px;
   transition: all 0.5s ease-in;
@@ -112,6 +118,7 @@
     opacity: 0;
     transform: translateX(-20px);
   }
+
   100% {
     opacity: 1;
     transform: translateX(0);

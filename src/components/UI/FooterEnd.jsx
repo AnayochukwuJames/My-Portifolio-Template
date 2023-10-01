@@ -11,7 +11,7 @@ const FooterEnd = () => {
     <div className="footer-end" style={style}>
       <div className="footer-bottom">
         <p>
-          &copy; {new Date().getFullYear()} Daniel Oluwatomiwo. All Rights
+          &copy; {new Date().getFullYear()} Anayochukwu James. All Rights
           Reserved.
         </p>
       </div>

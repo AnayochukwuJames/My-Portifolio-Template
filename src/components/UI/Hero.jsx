@@ -9,11 +9,9 @@ import images from "../../assets/images";
 const Hero = () => {
   const [typeEffect] = useTypewriter({
     words: [
-      "Core Java Developer",
-      "React Developer",
-      "React Native Developer",
+      "A Java Software Engineer",
+      "Data Scietist",
       "Fullstack Java Developer",
-      "Blockchain Developer",
     ],
     loop: {},
     typeSpeed: 100,
@@ -31,7 +29,7 @@ const Hero = () => {
           >
             <h5>Hello Welcome</h5>
             <h1 className="name" data-aos="fade-up" data-aos-duration="1000">
-              I'm Daniel Oluwatomiwo <br />a {typeEffect}
+              I'm Anayochukwu James <br />a {typeEffect}
             </h1>
             <div
               data-aos="fade-up"
@@ -60,14 +58,14 @@ const Hero = () => {
               <i class="fa-solid fa-quote-left"></i>
             </span>
             This is an experienced full-stack Java developer with background in
-            HTML/CSS, Spring, SpringBoot, JavaScript, React, React Native, and
-            Solidity. He has honed his skills during his time at{" "}
+            HTML/CSS, Spring, SpringBoot, JavaScript, Boostrap, and
+            Solidity. I have honed my skills during his time at{" "}
             <span>
               <a className="anchor" href="https://decagon.institute/">
                 Decagon
               </a>
             </span>
-            , where he specialized in Java backend development and actively
+            , where I specialized in Java backend development and actively
             contributed to various full-stack projects.
           </p>
           <div
@@ -78,13 +76,13 @@ const Hero = () => {
           >
             <span>Follow Me:</span>
             <span >
-              <a href="https://github.com/Oluwatomiwo" className="social-icon">
+              <a href="https://github.com/AnayochukwuJames" className="social-icon">
                 <i class="fa-brands fa-github"></i>
               </a>
             </span>
             <span className="social-icon">
-              <a href="#" className="social-icon">
-                <i class="fa-brands fa-instagram"></i>
+              <a href="https://www.linkedin.com/in/anayochukwu-james-0653b3245?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bt1jpXCBWS%2BWvQkyLb%2B7L9g%3D%3D" className="social-icon">
+                <i class="fa-brands fa-linkedin"></i>
               </a>
             </span>
             <span className="social-icon">
@@ -93,8 +91,8 @@ const Hero = () => {
               </a>
             </span>
             <span className="social-icon">
-              <a href="#" className="social-icon">
-                <i class="fa-brands fa-medium"></i>
+              <a href="https://www.facebook.com/james.anayochukwu.1" className="social-icon">
+                <i class="fa-brands fa-facebook"></i>
               </a>
             </span>
           </div>

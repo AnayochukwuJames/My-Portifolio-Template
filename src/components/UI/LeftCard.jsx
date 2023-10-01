@@ -15,11 +15,10 @@ const LeftCard = () => {
                 Frontend Development
               </h3>
               <p>
-                As a React developer, I possess a strong foundation in front-end
-                web development, with expertise in crafting interactive and
-                responsive user interfaces. I am well-versed in state
-                management, component-driven architecture, and the latest best
-                practices in the React ecosystem
+                As a Front-end developer,
+                I possess a strong foundation of HTML, CSS, Bootstrap and Javascript which allow me
+                to Design a crafting interactive and
+                responsive user interfaces.
               </p>
             </div>
           </div>

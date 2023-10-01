@@ -8,16 +8,16 @@ import JSImage from "./JS.png";
 import springBootLogo from "./springboot.png";
 import postgresLogo from "./postgres.png";
 import reactIcon from "./React_(web_framework)-Logo.wine.png";
-import apostleIcon from "./apostledan1.png";
-import apostleIcon_ from "./apostledan_purp.png";
+import apostleIcon from "./Mr.James.png";
+import apostleIcon_ from "./frontend-black.png";
 import firebaseIcon from "./firebase.png";
-import astroNigga from "./edited_astro.png";
-import astro from "./mr.dan.png";
+import astroNigga from "./frontend-black.png";
+import astro from "./Mr.James.png";
 import frontend from "./frontend-black.png";
 import backend from "./backend-black.png";
 import spring from "./Spring-Logo.png";
 import database from "./database-black.png";
-import resume from "./OluwatomiwoOladeleResume.pdf";
+import resume from "./AnayochukwuJamesCV.pdf";
 
 export default {
   github,
